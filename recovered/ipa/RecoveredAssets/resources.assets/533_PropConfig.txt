@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Root>
+  <Prop>
+    <Name>MISSILE</Name>
+    <ID>0</ID>
+    <Path>Prop/Prop_Missile</Path>
+    <Cache>2</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>BANANA</Name>
+    <ID>1</ID>
+    <Path>Prop/Prop_Banana</Path>
+    <Cache>15</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>TORTOISE_RED</Name>
+    <ID>4</ID>
+    <Path>Prop/Prop_Red_Tortoise</Path>
+    <Cache>12</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>TORTOISE_GREEN</Name>
+    <ID>6</ID>
+    <Path>Prop/Prop_Green_Tortoise</Path>
+    <Cache>12</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>MUSHROOM_ONE</Name>
+    <ID>8</ID>
+    <Path>Prop/Prop_Mushroom</Path>
+    <Cache>6</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>TORTOISE_BLUE</Name>
+    <ID>13</ID>
+    <Path>Prop/Prop_Blue_Tortoise</Path>
+    <Cache>4</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>BLUE_TORTOISE_BOMB_EFFECT</Name>
+    <ID>22</ID>
+    <Path>Prop/Tortoise_BombEffect</Path>
+    <Cache>4</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>BOMB</Name>
+    <ID>14</ID>
+    <Path>Prop/Prop_Bomb</Path>
+    <Cache>12</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>BOMB_EFFECT</Name>
+    <ID>15</ID>
+    <Path>Prop/Prop_Bomb_effect</Path>
+    <Cache>12</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>CHEAT_BOX</Name>
+    <ID>17</ID>
+    <Path>Prop/Prop_Cheat_Box</Path>
+    <Cache>6</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>THUNDER_CLOUD</Name>
+    <ID>21</ID>
+    <Path>Prop/Prop_ThunderCloud</Path>
+    <Cache>3</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>BOX</Name>
+    <ID>23</ID>
+    <Path>Prop/Prop_Box</Path>
+    <Cache>10</Cache>
+  </Prop>
+
+  <Prop>
+    <Name>SPHERE</Name>
+    <ID>24</ID>
+    <Path>Prop/Prop_Sphere</Path>
+    <Cache>12</Cache>
+  </Prop>
+
+</Root>

@@ -1,0 +1,19 @@
+public enum AvatarSlotType
+{
+	Head,
+	Eye,
+	Mouth,
+	Face,
+	Neck,
+	Body,
+	Chest,
+	Back,
+	Hands,
+	RightHand,
+	LeftHand,
+	Feet,
+	TopEffect,
+	BodyEffect,
+	BottomEffect,
+	AvatarSlotMax
+}

@@ -1,0 +1,8 @@
+public enum ENM_SUB_TERRAIN_TYPE
+{
+	ETT_NONE,
+	ETT_GRASS,
+	ETT_SAND,
+	ETT_SNOW,
+	ETT_STRAW
+}

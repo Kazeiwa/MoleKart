@@ -1,0 +1,16 @@
+using UnityEngine;
+
+public struct KEYBOARD_INFO
+{
+	public iPhoneKeyboardType type;
+
+	public bool autoCorrect;
+
+	public bool multiline;
+
+	public bool secure;
+
+	public bool alert;
+
+	public int insert;
+}

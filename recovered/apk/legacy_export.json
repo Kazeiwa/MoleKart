@@ -1,0 +1,67 @@
+{
+  "counts": {
+    "mesh_obj": 1230
+  },
+  "errors": [
+    [
+      "level0",
+      17,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level1",
+      24,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level1",
+      25,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level18",
+      44,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level18",
+      45,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level18",
+      46,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level18",
+      47,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level2",
+      44,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level2",
+      45,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ],
+    [
+      "level2",
+      46,
+      "Mesh",
+      "No unpacked vertices; serialized data retained"
+    ]
+  ]
+}

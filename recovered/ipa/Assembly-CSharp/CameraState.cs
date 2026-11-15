@@ -1,0 +1,22 @@
+public enum CameraState
+{
+	CamNormal,
+	CamBoosting,
+	CamHitByMissile,
+	CamShielded,
+	CamHitByBanana,
+	CamHitByTortoise,
+	CamBecomeMissile,
+	CamInvincible,
+	CamScaleBig,
+	CamThunderCloud,
+	CamHitWall,
+	CamStatic,
+	CamAni,
+	CamBound,
+	CarBigBound,
+	CarLeftRightBound,
+	CarDeath,
+	CamAccelerate,
+	CamCarBounce
+}

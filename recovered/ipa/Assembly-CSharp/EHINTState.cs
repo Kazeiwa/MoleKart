@@ -1,0 +1,6 @@
+public enum EHINTState
+{
+	INVAID_STATE = -1,
+	TWO_LAPS_STATE,
+	LAST_LAP_STATE
+}

@@ -1,0 +1,143 @@
+using UnityEngine;
+
+public class HostPhysxSimulateKart : PhysxSimulateKart
+{
+	private bool m_bLockMovement;
+
+	public HostPhysxSimulateKart(VehicleData phyData, Transform bodyTransform, Transform lFrontWheel, Transform rFrontWheel, Transform lRearWheel, Transform rRearWheel, EnmCollisionLayer clLayer, CollisionCallback callback)
+		: base(phyData, bodyTransform, lFrontWheel, rFrontWheel, lRearWheel, rRearWheel, clLayer, callback)
+	{
+		wheels[0] = lFrontWheel;
+		wheels[1] = rFrontWheel;
+		wheels[3] = lRearWheel;
+		wheels[2] = rRearWheel;
+		InitChassis(wheels, fFrontTireRadius, fRearTireRadius, fSpring, fsuspensionDistance, bodyTransform.gameObject);
+		m_vGravity = m_kRigidBody.mass * Physics.gravity;
+		m_kRigidBody.useGravity = false;
+		m_kRigidBody.isKinematic = true;
+		m_kCompositeCollider = new BodyComponent(bodyTransform.gameObject, this, EnmCollisionLayer.CL_PLAYER);
+		m_kCarCollisionCenter = new LimitCarCollisionDetection();
+		m_kCarCollisionCenter.Init(m_kCompositeCollider, callback, this);
+		m_kCollsionSimulator = new SimpleVehicleCollisionSimulator(this);
+		Transform transform = bodyTransform.gameObject.transform.FindChild("collision/bodyhead");
+		if (transform != null)
+		{
+			transform.collider.material = m_kCompositeCollider[0].GetCollider().material;
+			transform.gameObject.layer = 10;
+		}
+		transform = bodyTransform.gameObject.transform.FindChild("collision/bodytail");
+		if (transform != null)
+		{
+			transform.collider.material = m_kCompositeCollider[0].GetCollider().material;
+			transform.gameObject.layer = 10;
+		}
+	}
+
+	public override void LockMovement(bool bLock)
+	{
+		m_bLockMovement = bLock;
+	}
+
+	public override bool GetLockMovement()
+	{
+		return m_bLockMovement;
+	}
+
+	public override void EnableKinematic()
+	{
+		m_kRigidBody.isKinematic = true;
+	}
+
+	public override void DisableKinematic()
+	{
+		m_kRigidBody.isKinematic = true;
+	}
+
+	public override bool IsKinematic()
+	{
+		return m_kRigidBody.isKinematic;
+	}
+
+	public override void SetKeepLiveVehicle(btVehicleBase kOther)
+	{
+		m_kCarCollisionCenter.AddKeepLivePair(kOther);
+		kOther.m_kCarCollisionCenter.AddKeepLivePair(this);
+	}
+
+	public override void StartBoost(float fTime)
+	{
+	}
+
+	public override void StartBoost(float fTime, float fSpeed)
+	{
+	}
+
+	public override void StopBoost()
+	{
+	}
+
+	public override bool GetBoostMode()
+	{
+		return false;
+	}
+
+	public override bool GetShiftMode()
+	{
+		return false;
+	}
+
+	public override Vector3 GetCurrentMotorForce()
+	{
+		return Vector3.zero;
+	}
+
+	public override bool MoveToGround(Vector3 vPos)
+	{
+		Vector3 vector = vPos;
+		vector.y += 100f;
+		if (!CollisionLayer.Instance.VerticalIntersectHitPosition(vector, out var _, out var vHitPoint))
+		{
+			return false;
+		}
+		SetPosition(vector);
+		Vector3 ray = new Vector3(0f, -10000f, 0f);
+		if (!projectVehicleToSurface(ray, btranslate_vehicle: true))
+		{
+			SetPosition(vHitPoint);
+			return false;
+		}
+		return true;
+	}
+
+	public override void AISteeringNew(bool bAccelation, bool bBrake, bool bBackward, float fSteering)
+	{
+	}
+
+	public override void Steering(bool bAccelation, bool bBrake, float fSteering)
+	{
+	}
+
+	public override bool CheckCanDriveNow()
+	{
+		return false;
+	}
+
+	public override void Update()
+	{
+		m_vPreVelGlobal = m_vVecGlobal;
+		m_vVecGlobal = (GetPosition() - prePos) / Time.deltaTime;
+		prePos = GetPosition();
+	}
+
+	public override void UpdateVehicle()
+	{
+	}
+
+	public override void ChangeVehicleRunningMode(RUNNING_MDOE eMode, object data)
+	{
+	}
+
+	public override void OnGUI()
+	{
+	}
+}

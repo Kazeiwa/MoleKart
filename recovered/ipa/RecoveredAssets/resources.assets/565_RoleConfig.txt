@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Roles>
+  <Role>
+    <ID>3000</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/molepre</Low_Mode>
+    <High_Mode>Characters/Mole/molepre</High_Mode>
+    <Npc_Mode></Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3001</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/momolod</Low_Mode>
+    <High_Mode>Characters/mole/momo</High_Mode>
+    <Npc_Mode>Characters/NpcMole/momo</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3002</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/Rklod</Low_Mode>
+    <High_Mode>Characters/mole/Rk</High_Mode>
+    <Npc_Mode>Characters/NpcMole/rk</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3003</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/molelelod</Low_Mode>
+    <High_Mode>Characters/mole/molele</High_Mode>
+    <Npc_Mode>Characters/NpcMole/molele</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3004</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/kulalod</Low_Mode>
+    <High_Mode>Characters/mole/kula</High_Mode>
+    <Npc_Mode>Characters/NpcMole/kula</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3005</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/putilod</Low_Mode>
+    <High_Mode>Characters/mole/puti</High_Mode>
+    <Npc_Mode>Characters/NpcMole/puti</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3006</ID>
+    <type>0</type>
+    <Low_Mode>Characters/Mole/yalilod</Low_Mode>
+    <High_Mode>Characters/mole/yali</High_Mode>
+    <Npc_Mode>Characters/NpcMole/yali</Npc_Mode>
+  </Role>
+  
+  <Role>
+    <ID>3101</ID>
+    <type>1</type>
+    <Low_Mode>Characters/Mole/fredlod</Low_Mode>
+    <High_Mode>Characters/mole/fred</High_Mode>
+    <Npc_Mode>Characters/NpcMole/fred</Npc_Mode>
+  </Role>
+
+  <Role>
+    <ID>3201</ID>
+    <type>1</type>
+    <Low_Mode>Characters/Mole/mmtlod</Low_Mode>
+    <High_Mode>Characters/mole/mmt</High_Mode>
+    <Npc_Mode>Characters/NpcMole/mmt</Npc_Mode>
+  </Role>
+
+</Roles>

@@ -1,0 +1,31 @@
+﻿ID_2001_en*Achieve 4 medals
+ID_2001_zh-Hans*获取4块奖章后自动解锁
+ID_2001_zh-Hant*獲取4塊獎章後自動解鎖
+
+ID_2002_en*Achieve 15 medals
+ID_2002_zh-Hans*获取15块奖章后自动解锁
+ID_2002_zh-Hant*獲取15塊獎章後自動解鎖
+
+ID_2003_en
+ID_2003_zh-Hans
+ID_2003_zh-Hant
+
+ID_2004_en*Achieve 6 medals
+ID_2004_zh-Hans*获取6块奖章后自动解锁
+ID_2004_zh-Hant*獲取6塊獎章後自動解鎖
+
+ID_2005_en*Achieve 9 medals
+ID_2005_zh-Hans*获取9块奖章后自动解锁
+ID_2005_zh-Hant*獲取9塊獎章後自動解鎖
+
+ID_2006_en
+ID_2006_zh-Hans
+ID_2006_zh-Hant
+
+ID_2101_en
+ID_2101_zh-Hans
+ID_2101_zh-Hant
+
+ID_2201_en*Achieve 12 medals
+ID_2201_zh-Hans*获取12块奖章后自动解锁
+ID_2201_zh-Hant*獲取12塊獎章後自動解鎖

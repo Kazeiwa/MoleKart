@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Root>
+  
+  <Eft>
+    <Name>JET</Name>
+    <ID>1</ID>
+    <Path>Effects/car/exha_1</Path>
+  </Eft>
+
+  <Eft>
+    <Name>JET_BOOST</Name>
+    <ID>2</ID>
+    <Path>Effects/car/erup_1</Path>
+  </Eft>
+
+  <Eft>
+    <Name>HIT_STAR</Name>
+    <ID>5</ID>
+    <Path>Effects/car/hit_02</Path>
+  </Eft>
+
+  <Eft>
+    <Name>LEAF</Name>
+    <ID>6</ID>
+    <Path>Effects/car/leaf</Path>
+  </Eft>
+
+  <Eft>
+    <Name>HIT_BY_LIGHTNING</Name>
+    <ID>7</ID>
+    <Path>Effects/car/ligh</Path>
+  </Eft>
+
+  <Eft>
+    <Name>RED_TORTOISE_EXPLODE</Name>
+    <ID>8</ID>
+    <Path>Effects/car/stor</Path>
+  </Eft>
+
+  <Eft>
+    <Name>INVINCIBLE_EFFECT</Name>
+    <ID>9</ID>
+    <Path>Effects/car/luck</Path>
+  </Eft>
+
+  <Eft>
+    <Name>HIT_BY_BANANA</Name>
+    <ID>10</ID>
+    <Path>Effects/car/line</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>HIT_BY_LEAF</Name>
+    <ID>11</ID>
+    <Path>Effects/car/leaf_2</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>EARTH_QUAKE</Name>
+    <ID>13</ID>
+    <Path>Effects/car/dizhen</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>GeGeLa_Effect</Name>
+    <ID>14</ID>
+    <Path>Effects/npc/sign_1</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>GeGeLa_Attack</Name>
+    <ID>15</ID>
+    <Path>Effects/npc/fx_robb_hit</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>QUAK_ROT</Name>
+    <ID>16</ID>
+    <Path>Effects/car/dizhen_eft</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>HIT_BY_MISSILE</Name>
+    <ID>17</ID>
+    <Path>Effects/car/hit</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>GREEN_TORTOISE_EXPLODE</Name>
+    <ID>18</ID>
+    <Path>Effects/car/stor_2</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>SCALE_BIG</Name>
+    <ID>19</ID>
+    <Path>Effects/car/big</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>WATER_BUBBLE</Name>
+    <ID>20</ID>
+    <Path>Effects/scene/flow_1</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>WATER_FLOWER</Name>
+    <ID>21</ID>
+    <Path>Effects/scene/flow_2</Path>
+  </Eft>
+
+  <Eft>
+    <Name>RK_ERUP_1</Name>
+    <ID>22</ID>
+    <Path>Effects/car/Rk_erup_1</Path>
+  </Eft>
+
+  <Eft>
+    <Name>RK_ERUP_2</Name>
+    <ID>23</ID>
+    <Path>Effects/car/Rk_erup_2</Path>
+  </Eft>
+
+  <Eft>
+    <Name>RK_ERUP_3</Name>
+    <ID>24</ID>
+    <Path>Effects/car/Rk_erup_3</Path>
+  </Eft>
+
+  <Eft>
+    <Name>KULA_FIRE</Name>
+    <ID>25</ID>
+    <Path>Effects/npc/kula_fire_3</Path>
+  </Eft>
+
+  <Eft>
+    <Name>KULA_FIRE_2</Name>
+    <ID>26</ID>
+    <Path>Effects/npc/kula_fire_4</Path>
+  </Eft>
+
+  <Eft>
+    <Name>YALI_FIRE</Name>
+    <ID>41</ID>
+    <Path>Effects/npc/yali_effet</Path>
+  </Eft>
+
+  <Eft>
+    <Name>JETBACK</Name>
+    <ID>27</ID>
+    <Path>Effects/car/back_1</Path>
+  </Eft>
+
+  <Eft>
+    <Name>HITMUSHROOM</Name>
+    <ID>28</ID>
+    <Path>Effects/scene/elast_01</Path>
+  </Eft>
+
+  <Eft>
+    <Name>Ghost_Lock</Name>
+    <ID>29</ID>
+    <Path>Effects/npc/sign_2</Path>
+  </Eft>
+
+  <Eft>
+    <Name>FIRESPHERE</Name>
+    <ID>30</ID>
+    <Path>Effects/npc/pterosaur_send_01</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>SPHEREHITGROUND</Name>
+    <ID>31</ID>
+    <Path>Effects/npc/pterosaur_hit_02</Path>
+  </Eft>
+
+  <Eft>
+    <Name>DRIF</Name>
+    <ID>32</ID>
+    <Path>Effects/scene/drif_3</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>FALL_IN_WATER</Name>
+    <ID>33</ID>
+    <Path>Effects/scene/bubb</Path>
+  </Eft>
+  
+   <Eft>
+    <Name>WIN_BREAK_RECORD</Name>
+    <ID>34</ID>
+    <Path>Effects/scene/win</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SHIFT_BLUEDOT</Name>
+    <ID>36</ID>
+    <Path>Effects/car/drif_2_b</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SHIFT_BLUEFIRE</Name>
+    <ID>37</ID>
+    <Path>Effects/car/drif_3_b</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SHIFT_GOLDDOT</Name>
+    <ID>38</ID>
+    <Path>Effects/car/drif_2_r</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SHIFT_GOLDFIRE</Name>
+    <ID>39</ID>
+    <Path>Effects/car/drif_3_r</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SNOW</Name>
+    <ID>40</ID>
+    <Path>Effects/scene/car_snow</Path>
+  </Eft>
+
+  <Eft>
+    <Name>FLY_BURST</Name>
+    <ID>42</ID>
+    <Path>Effects/car/flas_1</Path>
+  </Eft>
+
+  <Eft>
+    <Name>SELECT_TRACK</Name>
+    <ID>43</ID>
+    <Path>Effects/car/ui_star_01</Path>
+  </Eft>
+  
+  <Eft>
+    <Name>STRAW</Name>
+    <ID>44</ID>
+    <Path>Effects/car/leaf_3</Path>
+  </Eft>  
+</Root>

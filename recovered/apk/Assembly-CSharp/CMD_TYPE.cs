@@ -1,0 +1,9 @@
+public enum CMD_TYPE
+{
+	NONE = -1,
+	STEER_LEFT = 1,
+	STEER_RIGHT = 2,
+	SHIFT_LEFT = 4,
+	SHIFT_RIGHT = 8,
+	HANDBREAK = 16
+}

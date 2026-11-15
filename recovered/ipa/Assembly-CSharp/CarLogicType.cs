@@ -1,0 +1,8 @@
+public enum CarLogicType
+{
+	RT_HERO,
+	RT_PLAYER,
+	RT_NPC,
+	RT_PHYSPLAYER,
+	RT_HOST_PHYSPLAYER
+}

@@ -1,0 +1,8 @@
+public enum ROTATESIDEAXIS
+{
+	ERSA_LEFT = 1,
+	ERSA_RIGHT = 2,
+	ERSA_UP = 4,
+	ERSA_DOWN = 8,
+	ERSA_NONE = 0
+}

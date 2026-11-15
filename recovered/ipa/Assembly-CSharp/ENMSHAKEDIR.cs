@@ -1,0 +1,8 @@
+public enum ENMSHAKEDIR
+{
+	ESD_NONE = -1,
+	ESD_FRONT,
+	ESD_LEFT,
+	ESD_RIGHT,
+	ESD_BEHIND
+}

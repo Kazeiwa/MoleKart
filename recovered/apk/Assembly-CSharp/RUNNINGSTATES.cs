@@ -1,0 +1,5 @@
+public enum RUNNINGSTATES
+{
+	RS_INAIR,
+	RS_ONEARTH
+}

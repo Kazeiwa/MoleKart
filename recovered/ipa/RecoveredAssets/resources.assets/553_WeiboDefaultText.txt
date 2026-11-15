@@ -1,0 +1,21 @@
+﻿*比赛结束后
+en=I'm the champion of #Mole kart 1#!! Come to challenge me!
+zh-Hans=我在#摩尔卡丁车1#里面获得了第一！！快来挑战我吧！！
+zh-Hant=我在#摩爾卡丁車1#裡面獲得了第一！！快來挑戰我吧！！
+en=Join me in #Mole Kart 1#!
+zh-Hans=一起来玩#摩尔卡丁车1#吧！！
+zh-Hant=一起來玩#摩爾卡丁車1#吧！！
+---------------------------------------------------------
+*排行榜
+en=Look at my achievement! Dare you challenge me in #Mole kart 1#?
+zh-Hans=看看我在#摩尔卡丁车1#里的成绩！！你们敢挑战我么！！
+zh-Hant=看看我在#摩爾卡丁車1#裡的成績！！你們敢挑戰我麼！！
+----------------------------------------------------------
+*解锁
+en=I have already unlocked a new character, it's awsome!! Join me in #Mole kart 1#!
+zh-Hans=我在#摩尔卡丁车1#里面解锁新角色了！！羡慕吧，一起来玩吧！！
+zh-Hant=我在#摩爾卡丁車1#裡面解鎖新角色了！！羨慕吧，一起來玩吧！！
+en=I have already unlocked a new track, it's awsome!! Join me in #Mole kart 1#!
+zh-Hans=我在#摩尔卡丁车1#里面解锁新赛道了！！羡慕吧，一起来玩吧！！
+zh-Hant=我在#摩爾卡丁車1#裡面解鎖新賽道了！！羨慕吧，一起來玩吧！！
+---------------------------------------------

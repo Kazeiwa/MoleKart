@@ -1,0 +1,39 @@
+refresh_time_length: 4
+visible_interval: [-50, 100]
+check_point_ratio: 0.8
+final_rush_distance: 300
+final_rush_speed_delta: -5
+
+slow_down:
+    50   -> -2
+    100  -> -3
+         -> -4
+	
+speed_up:
+    -50  ->  2
+    -100 ->  4
+         ->  6
+
+visible_speed:
+    0    -> [18, 27]
+    1    -> [25, 31]
+    2    -> [25, 34]
+
+invisible_speed:
+    0    -> [14, 31]
+    1    -> [21, 35]
+    2    -> [25, 40]
+
+// 'z' -> do nothing
+// 'u' -> speed up
+// 'd' -> slow down
+// 'n' -> normal speed
+speed_treatment_matix:
+    //   1    2    3    4    5    6
+    1:   z    u    u    n    n    n
+    2:   n    z    n    u    n    n
+    3:   d    n    z    u    n    n
+    4:   d    d    n    z    n    n
+    5:   d    d    d    n    z    n
+    6:   d    d    d    d    n    z
+	

@@ -1,0 +1,32 @@
+<Config>
+  <version>110</version>
+  <standalone>0</standalone>
+  <EnterLevel>1101</EnterLevel>
+  <debug>0</debug>
+  <ControlType>2</ControlType>
+  <standalone>0</standalone>
+  <AutoUseProps>1</AutoUseProps>
+  <StuckCheat>0</StuckCheat>
+  <FallenCheat>0</FallenCheat>
+  <GizmosMinimalCurveRadius>0</GizmosMinimalCurveRadius>
+  <GizmosPathFollowing>0</GizmosPathFollowing>
+  <GizmosWallAvoidance>0</GizmosWallAvoidance>
+  <GizmosCollisionAvoidance>0</GizmosCollisionAvoidance>
+  <GizmosMonsterAvoidance>0</GizmosMonsterAvoidance>
+  <GizmosFrontVehicleAvoidance>0</GizmosFrontVehicleAvoidance>
+  <GizmosBackVehicleAvoidance>0</GizmosBackVehicleAvoidance>
+  <GizmosPropAcquiring>0</GizmosPropAcquiring>
+  <GizmosVehicleName>0</GizmosVehicleName>
+  <GizmosVehicleSteeringState>0</GizmosVehicleSteeringState>
+  <GizmosMonsterName>0</GizmosMonsterName>
+  <GizmosSeparation>0</GizmosSeparation>
+  <GizmosTotalForce>0</GizmosTotalForce>
+  <SetNpcInvisible>0</SetNpcInvisible>
+  <GizmosWorldPartition>0</GizmosWorldPartition>
+  <GizmosLittleStoneMonster>0</GizmosLittleStoneMonster>
+  <HasSimpleNetUI>0</HasSimpleNetUI>
+  <SendPropPackage>1</SendPropPackage>
+  <EnableCarMovePkg>1</EnableCarMovePkg>
+  <DisableMonsterMovementMessageSending>0</DisableMonsterMovementMessageSending>
+  <DisableMonsterMovementMessageReceiving>0</DisableMonsterMovementMessageReceiving>
+</Config>

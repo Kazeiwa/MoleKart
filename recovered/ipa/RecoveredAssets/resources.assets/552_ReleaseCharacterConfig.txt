@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Characters>
+
+  <ID_2001>
+    // momo
+    <Charge>0</Charge>
+    <TotalMedal>4</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2001>
+
+  <ID_2002>
+    // rk
+    <Charge>0</Charge>
+    <TotalMedal>15</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2002>
+
+  <ID_2003>
+    // lele
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2003>
+
+  <ID_2004>
+    // kula
+    <Charge>0</Charge>
+    <TotalMedal>6</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2004>
+
+  <ID_2005>
+    // puti
+    <Charge>0</Charge>
+    <TotalMedal>9</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2005>
+
+  <ID_2006>
+    // yali
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2006>
+
+  <ID_2101>
+    // bear
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2101>
+
+  <ID_2201>
+    // mmt
+    <Charge>0</Charge>
+    <TotalMedal>12</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_2201>
+
+
+</Characters>

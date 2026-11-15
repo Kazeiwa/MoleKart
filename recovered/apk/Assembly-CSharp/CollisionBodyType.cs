@@ -1,0 +1,8 @@
+public enum CollisionBodyType
+{
+	CBT_STATIC,
+	CBT_RAMP,
+	CBT_COLLIABLE,
+	CBT_SIDESTEP,
+	CBT_DYNAMIC
+}

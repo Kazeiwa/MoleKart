@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Achievement>
+  
+  <Comment>
+    <GoldInMaster>2</GoldInMaster>
+    <Gold>4</Gold>
+    <PlayOnlineMode>3</PlayOnlineMode>
+    <PlayedMinuteTotal>30</PlayedMinuteTotal>
+    <PlayedMinuteOnce>20</PlayedMinuteOnce>
+  </Comment>
+  
+</Achievement>

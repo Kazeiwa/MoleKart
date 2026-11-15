@@ -1,0 +1,75 @@
+﻿ID_1104_en
+ID_1104_zh-Hans
+ID_1104_zh-Hant
+
+ID_1105_en*Release by get 6 medals 
+ID_1105_zh-Hans*获取6块奖章后自动解锁
+ID_1105_zh-Hant*獲取6塊獎章後自動解鎖
+
+ID_1106_en*Release by get 10 medals 
+ID_1106_zh-Hans*获取10块奖章后自动解锁
+ID_1106_zh-Hant*獲取10塊獎章後自動解鎖
+
+ID_1107_en*Release by get 12 medals 
+ID_1107_zh-Hans*获取12块奖章后自动解锁
+ID_1107_zh-Hant*獲取12塊獎章後自動解鎖
+
+ID_1108_en*Release by get 4 medals 
+ID_1108_zh-Hans*获取4块奖章后自动解锁
+ID_1108_zh-Hant*獲取4塊獎章後自動解鎖
+
+
+ID_1109_en
+ID_1109_zh-Hans
+ID_1109_zh-Hant
+
+
+ID_1110_en
+ID_1110_zh-Hans
+ID_1110_zh-Hant
+
+
+ID_1111_en*Release by get 0 medals 
+ID_1111_zh-Hans*获取0块奖章后自动解锁
+ID_1111_zh-Hant*獲取0塊獎章後自動解鎖
+
+
+ID_1112_en*Release by get 2 medals 
+ID_1112_zh-Hans*获取2块奖章后自动解锁
+ID_1112_zh-Hant*獲取2塊獎章後自動解鎖
+
+
+en---When start running and a notice of “GO”, lift up your equipment, then you can gain accelerated starting reward.
+en---Do you want to get a better result? Then try the "manual drift" mode.
+en---You can change operating mode when pause in the game.
+en---Hold on "drift" button until it releases a blue flame; then you can get reward of speeding up.
+en---During the drift, you can only accumulate up 2 times of flames, the injection from yellow flame is much better.
+en---Each track can get up to 6 medals (Props race and Sprint race each can get 3 medals).
+en---Try to get better results and compete with players around the world.
+en---Play against to friends nearby with connection to network.
+en---When you suddenly make your equipment superterranean in air, you will obtian accelerated effect. 
+en---if you obtain acceleration effect(Thundercloud, Lahm, Lucky Coin), you aren't influenced pass through deceleration area.
+
+
+zh-Hans---起跑时，在出现提示“GO”时立即抬起你的设备，可以获得加速起跑奖励。
+zh-Hans---想要获得更好的比赛成绩吗，那就使用“手动漂移”操作方式吧！
+zh-Hans---在比赛中暂停，可以更换操作方式。
+zh-Hans---按住“漂移”按钮，在出现蓝色火焰之后松开能获得喷射加速奖励。
+zh-Hans---漂移过程中最多可以累积2次火焰，黄色火焰的喷射效果更加猛烈。
+zh-Hans---每条赛道最多可以获得6块奖章（道具赛和竞速赛各3块）。
+zh-Hans---努力创造更好的成绩与全世界的玩家一决高下。
+zh-Hans---与附近的朋友一起进行联网对战吧。
+zh-Hans---在腾空的瞬间，立即抬起你的设备，落地时可以获得一个加速效果。
+zh-Hans---获得加速效果时（喷射、雷云、幸运币、巨型钢姆），可以冲过减速区域而不会被减速。
+
+
+zh-Hant---起跑時，在出現提示“GO”時立即擡起妳的設備，可以獲得加速起跑獎勵。
+zh-Hant---想要獲得更好的比賽成績嗎，那就使用“手動漂移”操作方式吧！
+zh-Hant---在比賽中暫停，可以更換操作方式。
+zh-Hant---按住“漂移”按鈕，在出現藍色火焰之後松開能獲得噴射加速獎勵。
+zh-Hant---漂移過程中最多可以累積2次火焰，黃色火焰的噴射效果更加猛烈。
+zh-Hant---每條賽道最多可以獲得6塊獎章（道具賽和競速賽各3塊）。
+zh-Hant---努力創造更好的成績與全世界的玩家壹決高下。
+zh-Hant---與附近的朋友壹起進行聯網對戰吧。
+zh-Hant---在騰空的瞬間,立即抬起你的設備,落地時可以獲得一個加速效果。
+zh-Hant---獲得加速效果時(噴射、雷雲、幸運幣、巨型拉姆),可以沖過減速區域而不會被減速。

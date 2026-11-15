@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Tracks>
+
+  <ID_1108>
+    // port
+    <Charge>0</Charge>
+    <TotalMedal>4</TotalMedal>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_1108>
+  
+  <ID_1104> // sky
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1105>0</ID_1105>
+    <ID_1106>0</ID_1106>
+  </ID_1104>
+
+  <ID_1105> // volcano
+    <Charge>0</Charge>
+    <TotalMedal>6</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1106>0</ID_1106>
+  </ID_1105>
+
+  <ID_1106> // ice
+    <Charge>0</Charge>
+    <TotalMedal>10</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+  </ID_1106>
+
+  <ID_1109> // maple
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+  </ID_1109>
+
+  <ID_1110>
+    // farm
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+  </ID_1110>
+
+  <ID_1111>
+    // manor
+    <Charge>0</Charge>
+    <TotalMedal>0</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+  </ID_1111>
+  
+  <ID_1112>
+    // factory
+    <Charge>0</Charge>
+    <TotalMedal>2</TotalMedal>
+    <ID_1104>0</ID_1104>
+    <ID_1105>0</ID_1105>
+  </ID_1112>
+  
+</Tracks>

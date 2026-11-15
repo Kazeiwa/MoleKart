@@ -1,0 +1,217 @@
+{
+  "apk:assets/bin/Data/level0": {
+    "types": {
+      "OcclusionCullingSettings": 1,
+      "RenderSettings": 1,
+      "HaloManager": 1,
+      "LightmapSettings": 1,
+      "Mesh": 14,
+      "GameObject": 29,
+      "Transform": 29,
+      "ParticleAnimator": 2,
+      "EllipsoidParticleEmitter": 2,
+      "Camera": 1,
+      "MeshRenderer": 18,
+      "ParticleRenderer": 2,
+      "MeshFilter": 18,
+      "AudioListener": 1,
+      "AudioSource": 1,
+      "GUILayer": 1,
+      "Light": 1,
+      "Animation": 3,
+      "FlareLayer": 1,
+      "MonoBehaviour": 30
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "apk:assets/bin/Data/mainData": {
+    "types": {
+      "PlayerSettings": 1,
+      "InputManager": 1,
+      "TagManager": 1,
+      "AudioManager": 1,
+      "ScriptMapper": 1,
+      "MonoManager": 1,
+      "GraphicsSettings": 1,
+      "TimeManager": 1,
+      "Unknown (71)": 1,
+      "DelayedCallManager": 1,
+      "PhysicsManager": 1,
+      "BuildSettings": 1,
+      "Unknown (52)": 1,
+      "QualitySettings": 1,
+      "ResourceManager": 1,
+      "NetworkManager": 1,
+      "MasterServerInterface": 1,
+      "OcclusionCullingSettings": 1,
+      "RenderSettings": 1,
+      "HaloManager": 1,
+      "LightmapSettings": 1,
+      "Mesh": 7,
+      "GameObject": 12,
+      "Transform": 12,
+      "Camera": 1,
+      "MeshRenderer": 7,
+      "MeshFilter": 7,
+      "AudioListener": 1,
+      "GUILayer": 1,
+      "Light": 1,
+      "Animation": 1,
+      "FlareLayer": 1,
+      "GUIText": 1,
+      "MonoBehaviour": 9
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "apk:assets/bin/Data/sharedassets0.assets": {
+    "types": {
+      "PreloadData": 1,
+      "Material": 6,
+      "Texture2D": 5,
+      "Shader": 5,
+      "AnimationClip": 1,
+      "MonoScript": 508
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "ipa:Payload/molekartlite.app/Data/level0": {
+    "types": {
+      "OcclusionCullingSettings": 1,
+      "RenderSettings": 1,
+      "HaloManager": 1,
+      "LightmapSettings": 1,
+      "Mesh": 17,
+      "GameObject": 32,
+      "Transform": 32,
+      "ParticleAnimator": 2,
+      "EllipsoidParticleEmitter": 2,
+      "Camera": 1,
+      "MeshRenderer": 21,
+      "ParticleRenderer": 2,
+      "MeshFilter": 21,
+      "BoxCollider": 1,
+      "AudioListener": 1,
+      "AudioSource": 1,
+      "GUILayer": 1,
+      "Light": 1,
+      "Animation": 2,
+      "FlareLayer": 1,
+      "MonoBehaviour": 24
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "ipa:Payload/molekartlite.app/Data/mainData": {
+    "types": {
+      "PlayerSettings": 1,
+      "InputManager": 1,
+      "TagManager": 1,
+      "AudioManager": 1,
+      "ScriptMapper": 1,
+      "MonoManager": 1,
+      "GraphicsSettings": 1,
+      "TimeManager": 1,
+      "Unknown (71)": 1,
+      "DelayedCallManager": 1,
+      "PhysicsManager": 1,
+      "BuildSettings": 1,
+      "Unknown (52)": 1,
+      "QualitySettings": 1,
+      "ResourceManager": 1,
+      "NetworkManager": 1,
+      "MasterServerInterface": 1,
+      "OcclusionCullingSettings": 1,
+      "RenderSettings": 1,
+      "HaloManager": 1,
+      "LightmapSettings": 1,
+      "Mesh": 12,
+      "GameObject": 27,
+      "Transform": 27,
+      "Camera": 1,
+      "MeshRenderer": 19,
+      "MeshFilter": 19,
+      "AudioListener": 1,
+      "GUILayer": 1,
+      "Light": 1,
+      "FlareLayer": 1,
+      "GUIText": 1,
+      "MonoBehaviour": 7
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "ipa:Payload/molekartlite.app/Data/resources.assets": {
+    "types": {
+      "Material": 146,
+      "Texture2D": 194,
+      "Mesh": 167,
+      "Shader": 13,
+      "TextAsset": 51,
+      "AnimationClip": 252,
+      "AudioClip": 284,
+      "PhysicMaterial": 4,
+      "GameObject": 1132,
+      "Transform": 1132,
+      "ParticleAnimator": 85,
+      "EllipsoidParticleEmitter": 85,
+      "MeshRenderer": 186,
+      "ParticleRenderer": 85,
+      "MeshFilter": 186,
+      "Rigidbody": 16,
+      "MeshCollider": 4,
+      "BoxCollider": 15,
+      "TrailRenderer": 5,
+      "Animation": 99,
+      "Projector": 8,
+      "SphereCollider": 3,
+      "CapsuleCollider": 16,
+      "SkinnedMeshRenderer": 19,
+      "WheelCollider": 32,
+      "MonoBehaviour": 93
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  },
+  "ipa:Payload/molekartlite.app/Data/sharedassets0.assets": {
+    "types": {
+      "PreloadData": 1,
+      "Material": 6,
+      "Texture2D": 6,
+      "Shader": 3,
+      "MonoScript": 589
+    },
+    "files": [
+      {
+        "version": "3.4.0f5",
+        "format": 844442110001925
+      }
+    ]
+  }
+}

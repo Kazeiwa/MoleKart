@@ -1,0 +1,12 @@
+public enum CarModeType
+{
+	CAR_UNKNOWN = -1,
+	CAR_MOMO = 2001,
+	CAR_RK = 2002,
+	CAR_BEAR = 2101,
+	CAR_MOLELE = 2003,
+	CAR_PUTI = 2005,
+	CAR_YALI = 2006,
+	CAR_RADI = 2201,
+	CAR_KULA = 2004
+}

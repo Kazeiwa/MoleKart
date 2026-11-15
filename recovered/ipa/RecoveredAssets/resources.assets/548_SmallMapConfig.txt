@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Root>
+
+  <Roles>
+    <Role>
+      <ID>3001</ID>
+      <PlayerLogo>SmallMap/momo</PlayerLogo>
+      <NpcLogo>SmallMap/momo_2</NpcLogo>
+    </Role>
+
+    <Role>
+      <ID>3002</ID>
+      <PlayerLogo>SmallMap/rk</PlayerLogo>
+      <NpcLogo>SmallMap/rk_2</NpcLogo>
+    </Role>
+
+    <Role>
+      <ID>3003</ID>
+      <PlayerLogo>SmallMap/lele</PlayerLogo>
+      <NpcLogo>SmallMap/lele_2</NpcLogo>
+    </Role>
+
+    <Role>
+      <ID>3004</ID>
+      <PlayerLogo>SmallMap/kula</PlayerLogo>
+      <NpcLogo>SmallMap/kula_2</NpcLogo>
+    </Role>
+
+    <Role>
+      <ID>3101</ID>
+      <PlayerLogo>SmallMap/dabaixiong</PlayerLogo>
+      <NpcLogo>SmallMap/dabaixiong_2</NpcLogo>
+    </Role>
+
+    <Role>
+      <ID>3201</ID>
+      <PlayerLogo>SmallMap/maomaotou</PlayerLogo>
+      <NpcLogo>SmallMap/maomaotou_2</NpcLogo>
+    </Role>
+  </Roles>
+
+  <Levels>
+
+    <Level>
+      <ID>1101</ID>
+      <map_path>SmallMap/Track_1</map_path>
+      <dir_path>SmallMap/direction</dir_path>
+      <X>750</X>
+      <Y>200</Y>
+      <Width>340</Width>
+      <Height>480</Height>
+    </Level>
+
+      <Level>
+      <ID>1102</ID>
+      <map_path>SmallMap/Track_2</map_path>
+      <dir_path>SmallMap/direction</dir_path>
+      <X>680</X>
+      <Y>200</Y>
+      <Width>480</Width>
+      <Height>750</Height>
+    </Level>
+  </Levels>
+  
+</Root>
+

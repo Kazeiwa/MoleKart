@@ -1,0 +1,16 @@
+# Recovered local-space mesh; materials, rig and scene links remain in objects.jsonl.gz
+v -42.5 48.0 0.0
+v -42.5 -48.0 0.0
+v 42.5 -48.0 0.0
+v 42.5 48.0 0.0
+vt 0.3359375 0.375
+vt 0.3359375 0.0
+vt 0.66796875 0.0
+vt 0.66796875 0.375
+vn 0.0 0.0 -1.0
+vn 0.0 0.0 -1.0
+vn 0.0 0.0 -1.0
+vn 0.0 0.0 -1.0
+g submesh_0
+f 1/1/1 4/4/4 2/2/2
+f 4/4/4 3/3/3 2/2/2

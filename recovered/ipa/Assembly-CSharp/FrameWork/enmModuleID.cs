@@ -1,0 +1,16 @@
+namespace FrameWork;
+
+public enum enmModuleID
+{
+	MI_UNDEFINE,
+	MI_FRAMEWORK,
+	MI_LOGIN,
+	MI_ENGINE,
+	MI_NETWORK,
+	MI_SERVER,
+	MI_GAMEHALL,
+	MI_GAMEROOM,
+	MI_RACELOGIC,
+	MI_RESOURCE,
+	MI_COMMUNITY
+}
